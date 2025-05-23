@@ -19,6 +19,7 @@ A simple Java console-based application to track your income and expenses, categ
 Each line in the file represents one transaction:
 
 ### 🔹 Example:
+
 2025-05-01,INCOME,SALARY,50000
 2025-05-05,EXPENSE,FOOD,1500
 2025-05-10,INCOME,BUSINESS,20000
